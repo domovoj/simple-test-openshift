@@ -1,0 +1,22 @@
+{
+  "name": "simple-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domovoj/simple-test-openshift.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domovoj/simple-test-openshift/issues"
+  },
+  "homepage": "https://github.com/domovoj/simple-test-openshift#readme",
+  "devDependencies": {
+    "http": "0.0.0"
+  }
+}
