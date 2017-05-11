@@ -11,3 +11,6 @@ const port = process.env.PORT || process.env.OPENSHIFT_NODEJS_PORT || 8080,
 server.listen(port, ip, () => {
     console.log('Server running on http://%s:%s', ip, port);
 });
+
+
+module.exports = server;
